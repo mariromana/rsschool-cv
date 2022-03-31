@@ -1,4 +1,4 @@
-##Maryia Ramanouskaya
+## Maryia Ramanouskaya
 
 ***
 
@@ -6,7 +6,7 @@ _"Never complain, never explain".(c) Royal Family_
 
 ***
 
-##Contact
+## Contact
 - **Email:** mariroman604@gmail.com<br>
 - **Phone:** +48668515085<br>
 - **Location:** Cracow<br>
@@ -14,20 +14,20 @@ _"Never complain, never explain".(c) Royal Family_
 
 ***
 
-##Education
+## Education
 
 - **University:** BSU,State Institute of Management and Social Technologies, Minsk <br>Bachelor in Economics and Financial Management
 - **Courses:** [webdeveloper](https://www.udemy.com/course/webdeveloper/)
 
 ***
 
-##About Me
+## About Me
 
 I’d describe myself as a goal-oriented and hardworking person with good organizational skills and I'm also a responsible person. One of my advantages is communication, that’s why I always get along with different types of people. 
 
 ***
 
-##Skills
+## Skills
 
 - Html 
 - Css/Sass (Basic)
@@ -36,7 +36,7 @@ I’d describe myself as a goal-oriented and hardworking person with good organi
 
 ***
 
-##Code Example
+## Code Example
 
 ```
 function repeatStr (n, s) {
@@ -52,11 +52,11 @@ function repeatStr (n, s) {
 
 ***
 
-##Experience
+## Experience
 
 ***
 
-##Languages
+## Languages
 
 - **English:** A2+
 - **Polish:** B1
