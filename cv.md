@@ -1,8 +1,7 @@
-#Maryia Ramanouskaya
-
-
+##Maryia Ramanouskaya
 ***
-
+_"Never complain, never explain".(c) Royal Family_
+***
 ##Contact
 - **Email:** mariroman604@gmail.com<br>
 - **Phone:** +48668515085<br>
